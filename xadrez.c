@@ -11,7 +11,7 @@ int main(){
     //Movimentação do bispo
     printf("\nMovimentação do Bispo:\n");
     for (int i = 1; i <= mov_bispo; i++) {
-        printf("Direita, Cima (%d)\n, i");
+        printf("Direita, Cima (%d)\n", i);
     }
 
 
